@@ -1,0 +1,6 @@
+# AI Packages
+langchain-groq
+langgraph
+
+# Schema
+pydantic
