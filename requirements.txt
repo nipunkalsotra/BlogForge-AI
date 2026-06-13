@@ -1,5 +1,6 @@
 # AI Packages
 langchain-groq
+langchain-google-genai
 langchain-community
 langgraph
 
